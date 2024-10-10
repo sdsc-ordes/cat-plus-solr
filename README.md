@@ -1,5 +1,9 @@
 # Cat+ Solr Search Tool
 
+> [!WARNING]
+> This is a WIP repository, it is not yet stable.
+
+
 ## Summary
 
 This repository contains the set-up for the Cat+ Solr search tool. 
